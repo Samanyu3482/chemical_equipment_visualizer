@@ -338,10 +338,6 @@ python manage.py test equipment.auth_tests
 - Write comprehensive tests for new features
 - Document API changes in this README
 
-## License
-
-This project is licensed under the MIT License. See LICENSE file for details.
-
 ## Support
 
 For issues and questions:

@@ -1,3 +1,9 @@
+
+# Hypothesis cache
+.hypothesis/
+.kiro/
+
+
 # ================================
 # Python
 # ================================
@@ -83,3 +89,12 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+QUICK_START.md
+BEFORE_AFTER_COMPARISON.md
+COMPLETION_SAMPLES.md
+DESKTOP_APP_GUIDE.md
+DESKTOP_UI_FINAL_IMPROVEMENTS.md
+DESKTOP_UI_IMPROVEMENTS.md
+COMPLETION_SUMMARY.md
+USAGE_EXAMPLES.md
