@@ -1,0 +1,85 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+wheels/
+MANIFEST
+
+# ================================
+# Virtual Environments (ALL)
+# ================================
+venv/
+env/
+ENV/
+.venv/
+
+backend/venv/
+backend/env/
+backend/.venv/
+
+frontend-desktop/venv/
+frontend-desktop/env/
+frontend-desktop/.venv/
+
+# ================================
+# Environment Variables
+# ================================
+.env
+*.env
+
+# ================================
+# Django
+# ================================
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+backend/media/
+
+# ================================
+# Frontend Web (React)
+# ================================
+node_modules/
+frontend-web/build/
+frontend-web/.env.local
+frontend-web/.env.development.local
+frontend-web/.env.test.local
+frontend-web/.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ================================
+# Frontend Desktop (PyQt / PyInstaller)
+# ================================
+frontend-desktop/build/
+frontend-desktop/dist/
+*.spec
+
+# ================================
+# IDE / Editor
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ================================
+# OS Files
+# ================================
+.DS_Store
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
